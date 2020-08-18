@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Lakes of Turkey</string>
+    <string name="lake_name">Lake Name</string>
+    <string name="lake_area">Lake Area</string>
+    <string name="lake_depth">Lake Depth</string>
+    <string name="lake_coordinate">Lake Coordinate</string>
+</resources>

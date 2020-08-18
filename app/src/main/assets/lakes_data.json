@@ -1,0 +1,114 @@
+{
+ "lakes" :[
+  {
+    "id": 1,
+    "name": "Van Lake",
+    "latitude": "38.637706",
+    "longitude": "42.914596",
+    "markercolor": "0.0F",
+    "description": "It has a border to Van and Bitlis provinces. Area (3713 km²) in terms of Turkey's largest lake. There is (Soda Water) in Lake Van.",
+    "area" : "3713 km²",
+    "depth" : "451 m"
+  },
+  {
+    "id": 2,
+    "name": "Salt Lake",
+    "latitude": "38.785523",
+    "longitude": "33.341002",
+    "markercolor": "30.0F",
+    "description": "It has a border to Konya, Aksaray and Ankara provinces. Area (1300 km) in terms of Turkey's second largest lake. There is (Salt Water) in Tuz Gölü.",
+    "area" : "1300 km²",
+    "depth" : "1-2 m"
+  },
+  {
+    "id": 3,
+    "name": "Beyşehir Lake",
+    "latitude": "37.804795",
+    "longitude": "31.522362",
+    "markercolor": "60.0F",
+    "description": "It has a border to Konya and Isparta provinces. Area (565 sq km) in terms of Turkey's third largest lake. There is (Fresh Water) in Beyşehir Lake.",
+    "area" : "656 km²",
+    "depth" : "10 m"
+  },
+  {
+    "id": 4,
+    "name": "Eğridir Lake",
+    "latitude": "38.049816",
+    "longitude": "30.875487",
+    "markercolor": "120.0F",
+    "description": "Isparta province has a border. Area (482 sq km) in terms of Turkey's fourth largest lake. There is (Fresh Water) in Eğirdir Lake.",
+    "area" : "482 km²",
+    "depth" : "14 m"
+  },
+  {
+    "id": 5,
+    "name": "İznik Lake",
+    "latitude": "40.436694",
+    "longitude": "29.532406",
+    "markercolor": "180.0F",
+    "description": "There is a border to Bursa province. Area (308 sq km), as is Turkey's fifth largest lake. There is (Fresh Water) in Iznik Lake.",
+    "area" : "308 km²",
+    "depth" : "80 m"
+  },
+  {
+    "id": 6,
+    "name": "Burdur Lake",
+    "latitude": "37.737480",
+    "longitude": "30.170898",
+    "markercolor": "210.0F",
+    "description": "It has a border to the provinces of Burdur and Isparta. Area (200 sq km) in terms of Turkey's sixth largest lake. There is (Brackish Water) in Lake Burdur.",
+    "area" : "200 km²",
+    "depth" : "110 m"
+  },
+  {
+    "id": 7,
+    "name": "Manyas Lake",
+    "latitude": "40.207490",
+    "longitude": "27.947017",
+    "markercolor": "240.0F",
+    "description": "It is also called Bird Lake. It has a border to the province of Balıkesir. Area (166 sq km) in terms of Turkey's seventh largest lake. There is (Fresh Water) in Lake Manyas.",
+    "area" : "166 km²",
+    "depth" : "3-4 m"
+  },
+  {
+    "id": 8,
+    "name": "Acıgöl Lake",
+    "latitude": "37.831876",
+    "longitude": "29.892731",
+    "markercolor": "270.0F",
+    "description": "It has a border to Afyonkarahisar and Denizli provinces. Area (153 sq km) in terms of Turkey's eighth largest lake. There is (Brackish Water) in Acıgöl.",
+    "area" : "153 km²",
+    "depth" : "38 m"
+  },
+  {
+    "id": 9,
+    "name": "Ulubat Lake",
+    "latitude": "40.165726",
+    "longitude": "28.612569",
+    "markercolor": "300.0F",
+    "description": "It has a border to Bursa province. Area (134 sq km) in terms of Turkey is the ninth largest lake. There is (Fresh Water) in Uluabat Lake.",
+    "area" : "134 km²",
+    "depth" : "1-2 m"
+  },
+  {
+    "id": 10,
+    "name": "Çıldır Lake",
+    "latitude": "41.077978",
+    "longitude": "43.215787",
+    "markercolor": "330.0F",
+    "description": "It has a border to Ardahan and Kars provinces. Area (115 sq km) in terms of Turkey's tenth largest lake. There is (Fresh Water) in Çıldır Lake.",
+    "area" : "115 km²",
+    "depth" : "42 m"
+  },
+  {
+    "id": 11,
+    "name": "Sapanca Lake",
+    "latitude": "40.729808",
+    "longitude": "30.264013",
+    "markercolor": "210.0F",
+    "description": "It has a border to Sakarya and Kocaeli provinces. Surface area (47 square kilometers) in terms of Turkey's largest lake eighteenth. There is (Fresh Water) in Sapanca Lake.",
+    "area" : "47 km²",
+    "depth" : "53 m"
+  }
+]
+}

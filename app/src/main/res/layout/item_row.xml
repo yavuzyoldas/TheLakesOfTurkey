@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView
+    android:id="@+id/scrollView"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+
+<RelativeLayout
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:id="@+id/relativeLayout">
+    <androidx.cardview.widget.CardView
+        android:id="@+id/card_view"
+        android:layout_margin="10dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+        <RelativeLayout
+            android:orientation="horizontal"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+            <RelativeLayout
+                android:layout_alignParentStart="true"
+                android:id="@+id/relative"
+                android:orientation="vertical"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content">
+                <TextView
+                    android:layout_centerHorizontal="true"
+                    android:layout_marginTop="15dp"
+                    android:id="@+id/lake_name"
+                    android:textSize="25sp"
+                    android:text="@string/lake_name"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"/>
+               <RelativeLayout
+                   android:id="@+id/line1"
+                   android:orientation="horizontal"
+                   android:layout_below="@+id/lake_name"
+                   android:layout_width="match_parent"
+                   android:layout_height="wrap_content">
+                   <TextView
+                       android:layout_alignParentStart="true"
+                       android:id="@+id/lake_area"
+                       android:textSize="16sp"
+                       android:text="@string/lake_area"
+                       android:layout_width="wrap_content"
+                       android:layout_height="wrap_content"/>
+
+                   <TextView
+                       android:layout_alignParentEnd="true"
+                       android:id="@+id/lake_depth"
+                       android:textSize="16sp"
+                       android:text="@string/lake_depth"
+                       android:layout_width="wrap_content"
+                       android:layout_height="wrap_content"/>
+               </RelativeLayout>
+
+                <TextView
+
+                    android:layout_centerHorizontal="true"
+                    android:layout_below="@id/line1"
+                    android:textSize="16sp"
+                    android:id="@+id/lake_coordinate"
+                    android:text="@string/lake_coordinate"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"/>
+
+            </RelativeLayout>
+
+        </RelativeLayout>
+
+    </androidx.cardview.widget.CardView>
+
+    <TextView
+        android:focusable="true"
+        android:padding="3dp"
+        android:layout_margin="10dp"
+        android:background="@android:color/holo_blue_light"
+        android:textColor="@android:color/white"
+        android:layout_below="@+id/card_view"
+        android:visibility="gone"
+        android:id="@+id/hidden_text"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"/>
+
+</RelativeLayout>
+</ScrollView>
